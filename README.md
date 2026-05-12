@@ -1,2 +1,13 @@
-# valuacion_opciones
-Implementación de modelos de procesos estocásticos aplicados a finanzas. Contiene código en Python para simulación de trayectorias, cálculo de probabilidades y valuación de derivados bajo el modelo de Black‑Scholes.
+# Proyecto de Procesos Estocásticos
+
+Este repositorio contiene el código y materiales desarrollados para la materia **Procesos Estocásticos** en ITAM.  
+El proyecto aborda la modelación de precios de activos financieros mediante procesos estocásticos, incluyendo simulaciones con movimiento browniano geométrico y aplicaciones en valuación de opciones.
+
+## Contenido
+- Jupyter notebook con ejemplo de simulación y análisis
+- Documento del proyecto (`proyectoestoc.pdf`)
+  
+## Autoras
+Sofía Jiménez 
+Raquel Gasca 
+Lucía Martínez 
