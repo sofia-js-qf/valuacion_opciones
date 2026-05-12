@@ -5,7 +5,7 @@ El proyecto aborda la modelación de precios de activos financieros mediante pro
 
 ## Contenido
 - Jupyter notebook con ejemplo de simulación y análisis
-- Documento del proyecto (`proyectoestoc.pdf`)
+- Documento del proyecto (`Valuación_de_Opciones_Financieras__el_modelo_de_Black___Scholes.pdf`)
   
 ## Autoras
 Sofía Jiménez 
